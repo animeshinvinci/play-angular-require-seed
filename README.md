@@ -9,6 +9,9 @@ This template application shows how to organize your application with
 It shows an alternative way of organizing modules than the official
 [Angular-Play-Seed](https://github.com/typesafehub/angular-seed-play).
 
+**Important:** Please note that this seed uses Angular 1.x and will not be updated for newer versions of Angular.
+I might create a newer seed in the future, but personally I prefer using Scala.js with React.
+
 For a full explanation, read the following blog post:
 http://www.mariussoutier.com/blog/2013/08/25/requirejs-optimization-play-webjars/
 
